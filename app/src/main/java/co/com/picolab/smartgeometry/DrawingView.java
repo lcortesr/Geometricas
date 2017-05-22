@@ -56,7 +56,7 @@ import android.util.TypedValue;
             canvasPaint = new Paint(Paint.DITHER_FLAG);
 
         }
-
+        //comentario de prueba
         public void setBrushSize(float newSize){
         //update size
             float pixelAmount = TypedValue.applyDimension(TypedValue.COMPLEX_UNIT_DIP,
